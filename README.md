@@ -56,3 +56,5 @@
      - Web Content Management Systems (e.g., WordPress)
      - Internationalization and Localization
      - Mobile-First and Progressive Enhancement
+
+Please note that these divisions are not mutually exclusive, and there can be overlaps between the subsets. The above breakdown provides a comprehensive overview of the different areas within the web track that can be explored.
