@@ -3,7 +3,6 @@ Web development involves the creation and maintenance of websites and web applic
 
 1. **Front-end Development**
 Front-end development focuses on the client-side of web development, which involves designing and implementing the user interface and user experience of a website or web application. Here's a breakdown of the key aspects and tools used in front-end development:
-  -
   - HTML: Markup language used for structuring web pages.
   - CSS: Stylesheet language used for defining the visual presentation of web pages.
   - JavaScript: Programming language used for adding interactivity and dynamic behavior to web pages.
