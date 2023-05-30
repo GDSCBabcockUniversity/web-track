@@ -1,4 +1,4 @@
-## Web Design:
+## Web Design
 
 1. User Interface (UI) Design: Focuses on designing the visual elements and layout of a website to enhance usability and create an intuitive user interface.
 
