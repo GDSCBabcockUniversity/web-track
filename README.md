@@ -12,16 +12,18 @@
      - HTML
      - CSS
      - JavaScript
-     - Front-end Frameworks (e.g., React, Angular, Vue.js)
+     - Front-end Frameworks (e.g., Angular)
      - Responsive Web Development
      - Web Accessibility
 
    - Back-end Development
-     - Server-side Languages (e.g., Python, PHP, Ruby, Node.js)
-     - Web Frameworks (e.g., Django, Ruby on Rails, Express.js)
-     - Databases (e.g., MySQL, PostgreSQL, MongoDB)
+     - Server-side Languages (e.g., GoLang, PHP, Node.js, Python, C#)
+     - Web Frameworks (e.g., Laravel, Express.js, Django, .NET)
+     - BaaS [Backend as a Service] (e.g. FireBase, SupaBase, PocketBase, AppWrite)
+     - Databases (e.g., MySQL, PostgreSQL, MongoDB, MS SQL Server)
      - RESTful API Development
      - Authentication and Authorization
+     - Cloud Computing Platforms (e.g. Google Cloud, AWS, Azure)
 
    - Full-stack Development
      - Combination of front-end and back-end development skills
