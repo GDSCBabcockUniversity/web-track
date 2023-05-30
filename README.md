@@ -12,7 +12,8 @@
      - HTML
      - CSS
      - JavaScript
-     - Front-end Frameworks (e.g., Angular)
+     - Front-end Libraries (e.g., Tail Wind, Bootstrap, AOS, GSAP, React, Vue)
+     - Front-end Frameworks (e.g., Angular, Svelte/SvelteKit , Next.js, Nuxt.js)
      - Responsive Web Development
      - Web Accessibility
 
