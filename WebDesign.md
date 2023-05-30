@@ -1,27 +1,27 @@
 ## Web Design
 
-*User Interface (UI) Design*
+**User Interface (UI) Design**
 Focuses on designing the visual elements and layout of a website to enhance usability and create an intuitive user interface.
    - Design principles and guidelines: Principles and best practices that guide the creation of visually appealing and user-friendly        interfaces.
    - Graphic design software: Tools used for creating and editing visual elements, such as Adobe Photoshop, Sketch, Figma.
    - Design systems and style guides: Documented guidelines and reusable components that ensure consistency and maintainability in UI        design.
    - UI prototyping tools: Software that allows designers to create interactive prototypes to demonstrate the flow and functionality of      the UI, like InVision, Marvel.
 
-*User Experience (UX) Design* 
+**User Experience (UX) Design** 
 Emphasizes creating meaningful and satisfying experiences for website visitors, encompassing usability, accessibility, and user research.
    - User research techniques: Methods such as interviews, surveys, and usability testing to gather insights about user needs,              behaviors, and preferences.
    - Information architecture and content strategy: Organizing and structuring content in a way that facilitates user navigation and        comprehension.
    - Interaction design patterns: Established design solutions and patterns that enhance usability and guide user interactions.
    - Accessibility guidelines and tools: Standards and tools for designing inclusive experiences and ensuring accessibility for users        with disabilities, complying with WCAG (Web Content Accessibility Guidelines).
    
-*Visual Design* 
+**Visual Design**
 Involves creating visually appealing elements such as color schemes, typography, and graphics to enhance the overall aesthetic appeal of a website.
    - Color theory and color palettes: Understanding the psychological impact of colors and creating harmonious color schemes.
    - Typography and font pairing: Selecting appropriate fonts and combining them effectively for readability and visual hierarchy.
    - Iconography and illustration: Designing custom icons or using existing icon libraries to convey meaning and enhance visual appeal.
    - Responsive images and graphics: Optimizing images and graphics to load efficiently and display properly across different devices        and screen resolutions.
 
-*Interaction Design*
+**Interaction Design**
 Deals with designing and optimizing user interactions with the website, including navigation, buttons, forms, and other interactive elements.
 
    - User flow and task analysis: Mapping out the steps users take to accomplish tasks and optimizing the flow for a smooth user            experience.
