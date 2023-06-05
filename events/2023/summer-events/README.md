@@ -5,11 +5,11 @@ EVENT SCHEDULE:
 - The Power of Google Web Technologies:
   - Exploring the Power of Google Web Technologies 
     - [Introduction](https://gdsc.community.dev/events/details/developer-student-clubs-babcock-university-presents-exploring-the-power-of-google-web-technologies/) 
-    - Exploring the Power of Google Web Technologies: An exclusive event with Wycliffe Maina
-    - Exploring the Power of Google Web Technologies: An exclusive event with Maye Edwin
-    - Exploring the Power of Google Web Technologies: An exclusive event with Chuka Ofili
-    - Exploring the Power of Google Web Technologies: An exclusive event with Wayne Gakuo
-    - Exploring the Power of Google Web Technologies: An exclusive event with Ire Aderinokun
+    - Exploring the Power of Google Web Technologies: An Exclusive Developer Experience with Wycliffe Maina
+    - Exploring the Power of Google Web Technologies: An Exclusive Developer Experience with Maye Edwin
+    - Exploring the Power of Google Web Technologies: An Exclusive Developer Experience with Chuka Ofili
+    - Exploring the Power of Google Web Technologies: An Exclusive Developer Experience with Wayne Gakuo
+    - Exploring the Power of Google Web Technologies: An Exclusive Developer Experience with Ire Aderinokun
     - ...
   
   - Unleashing the Power of Google Web Technologies:
