@@ -25,3 +25,5 @@ EVENT SCHEDULE:
   - ...
 
 The two major events, "The Power of Google Web Technologies" and "Inspiring Women in Web Technologies: A Google Perspective," run concurrently. "The Power of Google Web Technologies" is divided into two series: "Exploring the Power of Google Web Technologies" and "Unleashing the Power of Google Web Technologies." Each series consists of sub events focusing on specific topics or technologies. Similarly, "Inspiring Women in Web Technologies: A Google Perspective" features sub events where Women Tech Makers Ambassadors share their expertise with female Web Developers in the Web Track.
+
+## Please note that the summer events are currently in progress, and the provided details are subject to potential changes.
