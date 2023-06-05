@@ -6,7 +6,7 @@ Welcome to the Google Developers Student Club Babcock University Web Learning Re
 
 To get started with using this repository, you can clone the repository to your local machine using the following command:
 
-git clone https://github.com/GDSCBabcockUniversity/web-learning-resources.git
+git clone https://github.com/GDSCBabcockUniversity/web-track/web-learning-resources.git
 
 
 Once you have cloned the repository, you can explore the various resources available and start learning!
