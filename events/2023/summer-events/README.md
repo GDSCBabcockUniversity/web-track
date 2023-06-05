@@ -3,18 +3,20 @@
 EVENT SCHEDULE:
 
 - The Power of Google Web Technologies:
-  - Exploring the Power of Google Web Technologies: Intro
-  - Exploring the Power of Google Web Technologies: An exclusive event with Wycliffe Maina
-  - Sub Event 3
-  - Sub Event 4
-  - ...
+  - Exploring the Power of Google Web Technologies 
+    - [Introduction](https://gdsc.community.dev/events/details/developer-student-clubs-babcock-university-presents-exploring-the-power-of-google-web-technologies/) 
+    - Exploring the Power of Google Web Technologies: An exclusive event with Wycliffe Maina
+    - Sub Event 3
+    - Sub Event 4
+    - ...
   
   - Unleashing the Power of Google Web Technologies:
-      - Unleashing the Power of Google Web Technologies: [name of Tech]
-        - Sub Event 1
-        - Sub Event 2
-        - Sub Event 3
-        - ...
+     - Unleashing the Power of Google Web Technologies: Angular
+     - Unleashing the Power of Google Web Technologies: Angular
+     - Sub Event 2
+     - Sub Event 3
+     - ...
+     
  - Inspiring Women in Web Technologies: A Google Perspective
     - Inspiring Women in Web Technologies: A Google Perspective with [name of WTM Ambassador]
       - Sub Event 1
