@@ -3,13 +3,13 @@
 EVENT SCHEDULE:
 
 - The Power of Google Web Technologies:
-  - Exploring the Power of Google Web Technologies
-    - Exploring the Power of Google Web Technologies: An exclusive event with [name of GDE Speaker]
-      - Sub Event 1
-      - Sub Event 2
-      - Sub Event 3
-      - ...
-    - Unleashing the Power of Google Web Technologies:
+  - Exploring the Power of Google Web Technologies: Intro
+  - Exploring the Power of Google Web Technologies: An exclusive event with Wycliffe Maina
+  - Sub Event 3
+  - Sub Event 4
+  - ...
+  
+  - Unleashing the Power of Google Web Technologies:
       - Unleashing the Power of Google Web Technologies: [name of Tech]
         - Sub Event 1
         - Sub Event 2
