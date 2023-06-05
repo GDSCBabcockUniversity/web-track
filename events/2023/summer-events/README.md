@@ -8,6 +8,8 @@ EVENT SCHEDULE:
     - Exploring the Power of Google Web Technologies: An exclusive event with Wycliffe Maina
     - Exploring the Power of Google Web Technologies: An exclusive event with Maye Edwin
     - Exploring the Power of Google Web Technologies: An exclusive event with Chuka Ofili
+    - Exploring the Power of Google Web Technologies: An exclusive event with Wayne Gakuo
+    - Exploring the Power of Google Web Technologies: An exclusive event with Ire Aderinokun
     - ...
   
   - Unleashing the Power of Google Web Technologies:
