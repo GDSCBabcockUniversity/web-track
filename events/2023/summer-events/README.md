@@ -9,10 +9,10 @@ Similarly, "Inspiring Women in Web Technologies: A Google Perspective" features 
 - The Power of Google Web Technologies:
   - Exploring the Power of Google Web Technologies 
     - [Introduction](https://gdsc.community.dev/events/details/developer-student-clubs-babcock-university-presents-exploring-the-power-of-google-web-technologies/) 
+    - [Exploring the Power of Google Web Technologies: An Exclusive Developer Experience with Wayne Gakuo](https://gdsc.community.dev/events/details/developer-student-clubs-babcock-university-presents-exploring-the-power-of-google-web-technologies-1/)
     - Exploring the Power of Google Web Technologies: An Exclusive Developer Experience with Wycliffe Maina
     - Exploring the Power of Google Web Technologies: An Exclusive Developer Experience with Maye Edwin
     - Exploring the Power of Google Web Technologies: An Exclusive Developer Experience with Chuka Ofili
-    - Exploring the Power of Google Web Technologies: An Exclusive Developer Experience with Wayne Gakuo
     - Exploring the Power of Google Web Technologies: An Exclusive Developer Experience with Ire Aderinokun
     - ...
   
@@ -24,7 +24,7 @@ Similarly, "Inspiring Women in Web Technologies: A Google Perspective" features 
   
   
 - Inspiring Women in Web Technologies: A Google Perspective
-  - Inspiring Women in Web Technologies: A Google Perspective with Nancy Areola
+  - [Inspiring Women in Web Technologies: A Google Perspective with Nancy Areola](https://gdsc.community.dev/events/details/developer-student-clubs-babcock-university-presents-inspiring-women-in-web-technologies/)
   - Inspiring Women in Web Technologies: A Google Perspective with Suffiah Saleh    
   - ...
 
